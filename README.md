@@ -1,5 +1,7 @@
 # Getting Started with Random Quote Machine
 
+This is my solution for Freecodecamp's Random Quote Machine challenge
+
 ## Available Scripts
 
 In the project directory, you can run:
